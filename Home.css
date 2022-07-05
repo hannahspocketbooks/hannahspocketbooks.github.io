@@ -153,7 +153,6 @@
 .u-section-2 .u-group-1 {
   width: 564px;
   min-height: 466px;
-  height: auto;
   margin: -357px auto 0 0;
 }
 
@@ -219,7 +218,6 @@
     width: 499px;
     min-height: 473px;
     margin-top: -178px;
-    height: auto;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -395,7 +393,7 @@
     margin-left: -30px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 848px;
+  min-height: 883px;
 }
 
 .u-section-3 .u-shape-1 {
@@ -414,12 +412,13 @@
 .u-section-3 .u-group-1 {
   width: 470px;
   min-height: 342px;
-  margin: -531px 20px 0 auto;
+  height: auto;
+  margin: -531px 38px 0 auto;
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding-left: 20px;
-  padding-right: 25px;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .u-section-3 .u-text-1 {
@@ -429,7 +428,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 100px 0 0;
+  margin: 100px -3px 0 49px;
 }
 
 .u-section-3 .u-image-2 {
@@ -463,6 +462,7 @@
     min-height: 303px;
     margin-top: -479px;
     margin-right: 0;
+    height: auto;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -558,7 +558,7 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-right: 0;
+    margin-right: -3px;
   }
 
   .u-section-3 .u-image-2 {
@@ -605,6 +605,8 @@
 
   .u-section-3 .u-text-1 {
     margin-top: 100px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-image-2 {
@@ -1219,12 +1221,12 @@
     font-size: 2.25rem;
   }
 }.u-section-7 .u-sheet-1 {
-  min-height: 898px;
+  min-height: 893px;
 }
 
 .u-section-7 .u-layout-wrap-1 {
   width: 1140px;
-  margin: 75px auto 24px 0;
+  margin: 70px auto 24px 0;
 }
 
 .u-section-7 .u-image-1 {
@@ -1283,7 +1285,7 @@
 
 @media (max-width: 1199px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 758px;
+    min-height: 753px;
   }
 
   .u-section-7 .u-layout-wrap-1 {
@@ -1324,7 +1326,7 @@
 
 @media (max-width: 991px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 1892px;
+    min-height: 1887px;
   }
 
   .u-section-7 .u-layout-wrap-1 {
@@ -1367,7 +1369,7 @@
 
 @media (max-width: 767px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 1469px;
+    min-height: 1464px;
   }
 
   .u-section-7 .u-layout-wrap-1 {
@@ -1416,7 +1418,7 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 998px;
+    min-height: 993px;
   }
 
   .u-section-7 .u-layout-wrap-1 {
