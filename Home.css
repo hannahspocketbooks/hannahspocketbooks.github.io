@@ -682,6 +682,7 @@
   margin-bottom: 0;
   font-size: 1.875rem;
   --animation-custom_in-scale: 1;
+  --animation-custom_in-rotate: 0deg;
 }
 
 .u-section-4 .u-text-5 {
